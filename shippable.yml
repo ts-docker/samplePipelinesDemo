@@ -13,6 +13,8 @@ integrations:
   hub:
     - integrationName: tablesafe_push
       type: "private docker registry"
+    - integrationName: tablesafe_pull
+      type: "private docker registry"
 #  notifications:
 #    - integrationName: "triggerPipelinesDemo"
 #      type: webhook
